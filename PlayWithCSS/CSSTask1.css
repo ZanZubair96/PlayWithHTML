@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+div.header{
+    background-color: black;
+    color: white;
+    display: inline-block;
+}
+
+h1{
+    padding-bottom: 5px;
+}
+
+ul,li{
+    display: inline;
+}
+
+nav{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+li{
+    color: gray;
+}
+
+li:hover{
+    color: white;
+    cursor: pointer;
+}
+
+.Products{
+    padding: 20px;
+    text-align: center;
+}
+.Box{
+    display: inline-block;
+    width: 220px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+}
