@@ -19,8 +19,6 @@ body{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-   
-    
 }
 
 .container div{
@@ -29,5 +27,4 @@ body{
     margin: 20px;
     flex-basis: 20%;
     flex-grow: 1;
-    
 }
